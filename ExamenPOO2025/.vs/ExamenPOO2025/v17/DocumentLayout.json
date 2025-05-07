@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|c:\\users\\2431106\\documents\\code\\prog2\\examenpoo2025jadbentayaaidrissi\\examenpoo2025\\examenpoo2025\\simulateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|solutionrelative:examenpoo2025\\simulateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|c:\\users\\2431106\\documents\\code\\prog2\\examenpoo2025jadbentayaaidrissi\\examenpoo2025\\examenpoo2025\\poisson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|solutionrelative:examenpoo2025\\poisson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|c:\\users\\2431106\\documents\\code\\prog2\\examenpoo2025jadbentayaaidrissi\\examenpoo2025\\examenpoo2025\\canneapeche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|solutionrelative:examenpoo2025\\canneapeche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|c:\\users\\2431106\\documents\\code\\prog2\\examenpoo2025jadbentayaaidrissi\\examenpoo2025\\examenpoo2025\\pecheur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|solutionrelative:examenpoo2025\\pecheur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|c:\\users\\2431106\\documents\\code\\prog2\\examenpoo2025jadbentayaaidrissi\\examenpoo2025\\examenpoo2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|solutionrelative:examenpoo2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|c:\\users\\2431106\\documents\\code\\prog2\\examenpoo2025jadbentayaaidrissi\\examenpoo2025\\examenpoo2025\\embarcation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|solutionrelative:examenpoo2025\\embarcation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|c:\\users\\2431106\\documents\\code\\prog2\\examenpoo2025jadbentayaaidrissi\\examenpoo2025\\examenpoo2025\\embarcationdepeche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|solutionrelative:examenpoo2025\\embarcationdepeche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|c:\\users\\2431106\\documents\\code\\prog2\\examenpoo2025jadbentayaaidrissi\\examenpoo2025\\examenpoo2025\\embarcationpneumatique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|solutionrelative:examenpoo2025\\embarcationpneumatique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEC01FF-785E-4645-95FB-B87EACA3B88A}|TestProject2\\TestProject2.csproj|c:\\users\\2431106\\documents\\code\\prog2\\examenpoo2025jadbentayaaidrissi\\examenpoo2025\\testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEC01FF-785E-4645-95FB-B87EACA3B88A}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|c:\\users\\2431106\\documents\\code\\prog2\\examenpoo2025jadbentayaaidrissi\\examenpoo2025\\examenpoo2025\\examenpoo2025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A195E694-A788-49F3-B180-C87DC7748EA4}|ExamenPOO2025\\ExamenPOO2025.csproj|solutionrelative:examenpoo2025\\examenpoo2025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +55,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Simulateur.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\Simulateur.cs",
+              "RelativeDocumentMoniker": "ExamenPOO2025\\Simulateur.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\Simulateur.cs",
+              "RelativeToolTip": "ExamenPOO2025\\Simulateur.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:24:30.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Poisson.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\Poisson.cs",
+              "RelativeDocumentMoniker": "ExamenPOO2025\\Poisson.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\Poisson.cs",
+              "RelativeToolTip": "ExamenPOO2025\\Poisson.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:53:51.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pecheur.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\Pecheur.cs",
+              "RelativeDocumentMoniker": "ExamenPOO2025\\Pecheur.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\Pecheur.cs",
+              "RelativeToolTip": "ExamenPOO2025\\Pecheur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:07:57.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Embarcation.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\Embarcation.cs",
+              "RelativeDocumentMoniker": "ExamenPOO2025\\Embarcation.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\Embarcation.cs",
+              "RelativeToolTip": "ExamenPOO2025\\Embarcation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:04:04.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\Program.cs",
               "RelativeDocumentMoniker": "ExamenPOO2025\\Program.cs",
               "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\Program.cs",
               "RelativeToolTip": "ExamenPOO2025\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T12:12:38.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmbarcationPneumatique.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\EmbarcationPneumatique.cs",
+              "RelativeDocumentMoniker": "ExamenPOO2025\\EmbarcationPneumatique.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\EmbarcationPneumatique.cs",
+              "RelativeToolTip": "ExamenPOO2025\\EmbarcationPneumatique.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:12:28.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmbarcationDePeche.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\EmbarcationDePeche.cs",
+              "RelativeDocumentMoniker": "ExamenPOO2025\\EmbarcationDePeche.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\EmbarcationDePeche.cs",
+              "RelativeToolTip": "ExamenPOO2025\\EmbarcationDePeche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:24:06.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CanneAPeche.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\CanneAPeche.cs",
+              "RelativeDocumentMoniker": "ExamenPOO2025\\CanneAPeche.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\CanneAPeche.cs",
+              "RelativeToolTip": "ExamenPOO2025\\CanneAPeche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:46:08.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\TestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\TestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject2\\UnitTest1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:38:38.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExamenPOO2025",
+              "DocumentMoniker": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\ExamenPOO2025.csproj",
+              "RelativeDocumentMoniker": "ExamenPOO2025\\ExamenPOO2025.csproj",
+              "ToolTip": "C:\\Users\\2431106\\Documents\\Code\\Prog2\\ExamenPOO2025JadBentayaaIdrissi\\ExamenPOO2025\\ExamenPOO2025\\ExamenPOO2025.csproj",
+              "RelativeToolTip": "ExamenPOO2025\\ExamenPOO2025.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T12:45:56.295Z",
               "EditorCaption": ""
             }
           ]
